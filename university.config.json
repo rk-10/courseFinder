@@ -1,0 +1,65 @@
+[
+        {
+        "details": {
+            "name": "University of California-Berkeley",
+            "city": "Berkeley",
+            "state": "California",
+            "ucode": "UCB"
+        },
+        "departments": [
+            {
+                "name": "Computer Science",
+                "college_name": "",
+                "degrees": [
+                    {
+                        "name": "MS IN CS",
+                        "type": "POST GRADUATE",
+                        "coursesUrl": "https://www2.eecs.berkeley.edu/Courses/CS/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "details": {
+            "name": "University of Illinois at Urbana Champain",
+            "city": "Urbana Champain",
+            "state": "Illinois",
+            "ucode": "UIUC"
+        },
+        "departments": [
+            {
+                "name": "Computer Science",
+                "college_name": "",
+                "degrees": [
+                    {
+                        "name": "MS IN CS",
+                        "type": "POST GRADUATE",
+                        "coursesUrl": "https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "details": {
+            "name": "Stanford University",
+            "city": "Stanford",
+            "state": "California",
+            "ucode": "STU"
+        },
+        "departments": [
+            {
+                "name": "Computer Science",
+                "college_name": "",
+                "degrees": [
+                    {
+                        "name": "MS IN CS",
+                        "type": "POST GRADUATE",
+                        "coursesUrl": "https://exploredegrees.stanford.edu/schoolofengineering/computerscience/"
+                    }
+                ]
+            }
+        ]
+    }
+]
